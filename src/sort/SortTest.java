@@ -3,13 +3,13 @@ package sort;
 public class SortTest {
 
 	public static void main(String[] args) {
-		// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
+		// TODO ï¿½Ô¶ï¿½ï¿½ï¿½ÉµÄ·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
-		Integer[] a = {3,2,5,1,19,7,11};
-		printArray(a);
-		Quick.sort(a);
-		
-		printArray(a);
+		//Integer[] a = {3,2,5,1,19,7,11};
+//		printArray(a);
+//		Quick.sort(a);
+//		
+//		printArray(a);
 	}
 	
 	private static void printArray(Comparable[] x){

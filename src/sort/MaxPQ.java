@@ -46,8 +46,6 @@ public class MaxPQ <Key extends Comparable<Key>>{
 		}
 	}
 	
-	private 
-	
 	
 	private  boolean less(int i,int j){
 		return pq[i].compareTo(pq[j])<0;
